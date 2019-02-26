@@ -1,2 +1,4 @@
 # >> encoreTVB
 USER-AGENT,encoreTVB*
+DOMAIN,content.jwplatform.com
+DOMAIN-SUFFIX,tvbusa.com
