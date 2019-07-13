@@ -1,0 +1,8 @@
+# > Fox+ (HK|TW|SG)
+USER-AGENT,FOXPlus*
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN,dashasiafox.akamaized.net
+DOMAIN,hlsfoxplus.akamaized.net
+DOMAIN,fppmdasia.foxplay.com
