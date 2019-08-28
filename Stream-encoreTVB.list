@@ -2,4 +2,5 @@
 USER-AGENT,encoreTVB*
 DOMAIN,content.jwplatform.com
 DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
