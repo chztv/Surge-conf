@@ -1,4 +1,5 @@
-# >> myTV Super
+# >> myTV Super & ViuTV
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,nowe.com
