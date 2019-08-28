@@ -2,6 +2,7 @@
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,api.viu.tv
+DOMAIN-SUFFIX,api.viu.now.com
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,nowe.com
