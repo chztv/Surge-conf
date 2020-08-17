@@ -1,0 +1,1 @@
+HooloVPN = direct, interface=utun3, allow-other-interface=true
