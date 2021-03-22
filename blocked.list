@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bit.ly
 #DOMAIN-SUFFIX,amazonaws.com #Dropshare需要使用S3存储，暂时去除
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,ssp-cloud.net
+DOMAIN-SUFFIX,shaoshupai.me
