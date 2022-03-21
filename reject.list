@@ -3201,7 +3201,7 @@ DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhiziyun.com
 DOMAIN-SUFFIX,zhstatic.zhihu.com
 DOMAIN-SUFFIX,zhuanfakong.com
-DOMAIN-SUFFIX,zhugeio.com
+#DOMAIN-SUFFIX,zhugeio.com
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zhushou.2345.com
 DOMAIN-SUFFIX,zjuwjdc.com
