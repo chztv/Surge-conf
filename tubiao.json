@@ -3,7 +3,8 @@
 "description":"在原作者baiitang的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
 "icons":
     [
-    	{"name":"TVB", "url":"https://raw.githubusercontent.com/A1exMinatoooo/Zure/master/IconSet/TVB.png"},
+    	{"name":"TVB(彩)", "url":"https://raw.githubusercontent.com/chztv/Surge-conf/master/TVB-color.png"},
+	{"name":"TVB", "url":"https://raw.githubusercontent.com/A1exMinatoooo/Zure/master/IconSet/TVB.png"},
 	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
 	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby1.png"},
 	{"name":"Embys", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Embys.png"},
