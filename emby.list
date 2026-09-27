@@ -1,0 +1,37 @@
+# NAME: Emby
+# AUTHOR: chztv
+# REPO: https://github.com/chztv/Surge-conf
+# UPDATED: 2026-09-27 20:34:49
+# DOMAIN: 14
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 0
+# PROCESS-NAME: 0
+# TOTAL: 52
+#乐蛙
+DOMAIN,emby.taotu.ink
+#UHD
+DOMAIN,v1.uhdnow.com
+#SNTP
+DOMAIN,lite.cn2gias.uk
+#M臻享
+DOMAIN,mecf.mebimmer.de
+#云海
+DOMAIN,emby.oceancloud.asia
+#OKemby
+DOMAIN,link00.okemby.org
+#爱影视
+DOMAIN,iys.one
+#HDSky
+DOMAIN,la.lovehd.de
+#这只猫
+DOMAIN,eb.zzm.li
+#云海Pron
+DOMAIN,nsfw.oceancloud.asia
+#ME HOT
+DOMAIN,mehot.mebimmer.de
+#瑶瑶领先
+DOMAIN,link00.yyssr.org
+#MICU国际
+DOMAIN,media.micu.hk
+#SIESTA
+DOMAIN,cf.abcj.uk
