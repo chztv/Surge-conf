@@ -9,9 +9,9 @@
 # TOTAL: 52
 
 #墨云阁
-DOMAIN,mobaiemby.site
+DOMAIN-SUFFIX,mobaiemby.site
 #drivemby
-DOMAIN,drivemby.com
+DOMAIN-SUFFIX,drivemby.com
 #1111
 DOMAIN,pthc.emby.moe
 #乐蛙
@@ -27,7 +27,7 @@ DOMAIN,emby.oceancloud.asia
 #OKemby
 DOMAIN,link00.okemby.org
 #爱影视
-DOMAIN,iys.one
+DOMAIN-SUFFIX,iys.one
 #HDSky
 DOMAIN,la.lovehd.de
 #这只猫
